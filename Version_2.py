@@ -1,8 +1,8 @@
 #In lines 2 to 5 it asks the user for their name, section and favorite subject.
-first_name = input("Enter first name: ").strip()
-last_name = input("Enter last name: ").strip()
-section = input("Enter section: ").strip()
-favorite_subject = input("Enter favorite subject: ").strip()
+first_name = input("Enter first name: ")
+last_name = input("Enter last name: ")
+section = input("Enter section: ")
+favorite_subject = input("Enter favorite subject: ")
 
 #In lines 8 to 13 it reviews and modifies the inputs and structure them correctly
 full_name = first_name + " " + last_name
