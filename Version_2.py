@@ -8,8 +8,8 @@ favorite_subject = input("Enter favorite subject: ")
 full_name = first_name + " " + last_name
 name_title = full_name.title()
 name_upper = full_name.upper()
-section_upper = section.upper()
-subject_title = favorite_subject.title()
+sec_upper = section.upper()
+sub_title = favorite_subject.title()
 char_count = len(full_name)
 
 #in the final lines 16 to 21 it prints out a recipt about the inputs and its correct structure.
