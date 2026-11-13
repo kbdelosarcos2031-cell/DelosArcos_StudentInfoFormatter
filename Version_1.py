@@ -5,7 +5,7 @@ section = input("Enter section: ")
 favorite_subject = input("Enter favorite subject: ")
 
 #Prints out the inputs the user has inputted
-print("Output:")
+print("\nOutput:")
 print("Name:", first_name, last_name)
 print("Section:", section)
 print("Favorite Subject:", favorite_subject)
