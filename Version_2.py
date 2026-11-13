@@ -13,7 +13,7 @@ sub_title = favorite_subject.title()
 char_count = len(full_name)
 
 #in the final lines 16 to 21 it prints out a recipt about the inputs and its correct structure.
-print("Formatted Output:")
+print("\nFormatted Output:")
 print("Name:", name_title)
 print("Name Code:", name_upper)
 print("Section:", section_upper)
